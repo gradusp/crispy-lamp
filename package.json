@@ -14,7 +14,7 @@
     "@tailwindcss/typography": "^0.3.1",
     "@tsconfig/svelte": "^1.0.0",
     "autoprefixer": "^10.0.2",
-    "postcss": "^8.1.9",
+    "postcss": "^8.2.10",
     "rollup": "^2.3.4",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^6.0.0",
